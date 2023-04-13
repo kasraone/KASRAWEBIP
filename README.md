@@ -43,4 +43,8 @@ apt upgrade
 
 apt install git
 
-git clone 
+git clone  https://github.com/Amirbdas/KASRAWEBIP.git
+
+cd KASRAWEBIP
+
+./kasrawebip

@@ -48,3 +48,6 @@ git clone  https://github.com/Amirbdas/KASRAWEBIP.git
 cd KASRAWEBIP
 
 ./kasrawebip
+
+./kasrawebip [Target web]
+

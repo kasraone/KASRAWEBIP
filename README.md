@@ -19,5 +19,12 @@ Features
 
 
 
+این ابزار فقط برای آموزش و تست حقوقی ایجاد شده است و تیم ما هیچ گونه مسئولیتی در قبال استفاده قانونی دیگر از آن نمی پذیرد. 
 
+
+
+
+
+
+**This tool is created for legal training and testing purposes only, and our team is not responsible for its legal use.**
 

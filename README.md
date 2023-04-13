@@ -28,3 +28,19 @@ Features
 
 **This tool is created for legal training and testing purposes only, and our team is not responsible for its legal use.**
 
+
+
+
+
+install steps :
+
+
+
+
+apt  update
+
+apt upgrade
+
+apt install git
+
+git clone 

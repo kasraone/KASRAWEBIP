@@ -43,7 +43,7 @@ apt upgrade
 
 apt install git
 
-git clone  https://github.com/kasraone/PARADOXDORKLIST.git
+git clone  https://github.com/kasraone/KASRAWEBIP.git
 
 cd KASRAWEBIP
 

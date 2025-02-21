@@ -2,7 +2,9 @@
   <img src="https://user-images.githubusercontent.com/121594710/231794306-96f2224a-39b4-4aa1-beec-3b120e638f7b.png" alt="KASRAWEBIP" width="500"/>
 </p>
 
-# Subdomain and Related Domain Discovery Tool
+<p align="center">
+  <h1>Subdomain and Related Domain Discovery Tool</h1>
+</p>
 
 ### Features:
 - **💡 Smart Scraping Behavior**: Advanced scraping techniques for faster hostname discovery.
@@ -12,3 +14,14 @@
 
 > **⚠️ Legal Disclaimer**:  
 > This tool is designed strictly for **legal training and testing purposes**. Our team is not responsible for any illegal use.
+
+---
+
+### Installation and Execution:
+
+To install and use the tool, follow these simple steps:
+
+1. **Update your system and install dependencies**:
+   ```bash
+   sudo apt update && sudo apt upgrade
+   sudo apt install git

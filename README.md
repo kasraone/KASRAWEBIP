@@ -1,53 +1,52 @@
-#                                                      KASRAWEBIP
-![Snapshot_230413183652](https://user-images.githubusercontent.com/121594710/231794306-96f2224a-39b4-4aa1-beec-3b120e638f7b.png)
+# ██████████████████████████████████████████████████████████
+#                          KASRAWEBIP
+#
+# ██████████████████████████████████████████████████████████
 
+# Kasra One Team presents this upgraded tool for discovering subdomains and related domains.
 
+# ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+# Features:
+# ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+# ⚡ **Smart Scraping Behavior**: Advanced scraping techniques for faster hostname discovery.
+# ⚡ **Console UI**: Watch real-time scraping progress in the terminal.
+# ⚡ **IP-Based Discovery**: Scan and find subdomains and related domains by IP address.
 
+# ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
+# ⚠️ **Legal Disclaimer** ⚠️
+# ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
+# This tool is designed strictly for **legal training and testing purposes**.
+# Our team is not responsible for any misuse or illegal activity.
 
-You can use it to discover subdomains and other related domains
-Kasra One team has upgraded a tool that
-
-
-Features
-
-.  Smart scraping behaviour to maximize hostname discovery.
-.  Console user interface showing scraping progress.
-.  Discovers subdomains and hostnames by IP address.
-
-
-
-
-
-
-این ابزار فقط برای آموزش و تست حقوقی ایجاد شده است و تیم ما هیچ گونه مسئولیتی در قبال استفاده غیره قانونی دیگر از آن نمی پذیرد. 
-
-
-
-
-
-
-**This tool is created for legal training and testing purposes only, and our team is not responsible for its legal use.**
-
-
-
-
-
-install steps :
-
-
-
-
-apt  update
-
-apt upgrade
-
-apt install git
-
-git clone  https://github.com/kasraone/KASRAWEBIP.git
-
-cd KASRAWEBIP
-
-./kasrawebip
-
-./kasrawebip [Target web]
-
+# ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+# Installation Steps:
+# ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+#
+# 🔥 Step 1: Update your system and install required dependencies:
+# 
+# sudo apt update && sudo apt upgrade
+# sudo apt install git
+#
+# 🔥 Step 2: Clone the repository:
+# 
+# git clone https://github.com/kasraone/KASRAWEBIP.git
+#
+# 🔥 Step 3: Navigate to the project directory:
+# 
+# cd KASRAWEBIP
+#
+# 🔥 Step 4: Run the tool:
+# 
+# ./kasrawebip
+#
+# 🔥 Step 5: Provide the target web address to discover subdomains and related domains:
+# 
+# ./kasrawebip [Target web]
+#
+# ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+# ⚡ **Important Notice**:
+# ➖➖➖➖➖➖➖➖➖➖➖➖➖
+# Ensure that you use this tool responsibly and legally.
+#
+# **We are not liable for any illegal usage of this tool.**
+#

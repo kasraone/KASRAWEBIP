@@ -14,6 +14,8 @@
 
 > **⚠️ Legal Disclaimer**:  
 > This tool is designed strictly for **legal training and testing purposes**. Our team is not responsible for any illegal use.
+>
+> 
 > این ابزار صرفاً برای **آموزش و تست قانونی** طراحی شده است. تیم ما مسئول استفاده غیرقانونی از این ابزار نمی‌باشد
 ---
 

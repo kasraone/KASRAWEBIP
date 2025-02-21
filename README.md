@@ -14,7 +14,7 @@
 
 > **⚠️ Legal Disclaimer**:  
 > This tool is designed strictly for **legal training and testing purposes**. Our team is not responsible for any illegal use.
-
+> این ابزار صرفاً برای **آموزش و تست قانونی** طراحی شده است. تیم ما مسئول استفاده غیرقانونی از این ابزار نمی‌باشد
 ---
 
 ### Installation and Execution:
@@ -25,3 +25,9 @@ To install and use the tool, follow these simple steps:
    ```bash
    sudo apt update && sudo apt upgrade
    sudo apt install git
+   
+   INSTALL TOOLS
+   git clone https://github.com/kasraone/KASRAWEBIP.git
+   cd KASRAWEBIP
+   ./kasrawebip
+   ./kasrawebip [Target web]

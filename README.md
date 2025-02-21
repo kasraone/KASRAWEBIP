@@ -2,8 +2,10 @@
   <img src="https://user-images.githubusercontent.com/121594710/231794306-96f2224a-39b4-4aa1-beec-3b120e638f7b.png" alt="KASRAWEBIP" width="500"/>
 </p>
 
-# Subdomain and Related Domain Discovery Tool  
-## ابزار کشف ساب دامین‌ها و دامنه‌های مرتبط
+<p align="center">
+  <h1>Subdomain and Related Domain Discovery Tool</h1>
+  <h2>ابزار کشف ساب دامین‌ها و دامنه‌های مرتبط</h2>
+</p>
 
 ### Features / ویژگی‌ها:
 - **💡 Smart Scraping Behavior / رفتار هوشمند در اسکرِیپینگ**: Advanced scraping techniques for faster hostname discovery / تکنیک‌های پیشرفته برای کشف سریع‌تر نام‌های هاست.
